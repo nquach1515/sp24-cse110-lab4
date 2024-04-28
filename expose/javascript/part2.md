@@ -24,3 +24,11 @@
     F. true because Boolean(2) is equal to true and true == true
 
 15. The == operator attempts to convert the two values to a common type if they aren't the same type. Then, it will comapre the values if it can find a common type. The === operator checks if the two values are the same type first. Then if they are, it checks the actual values of the two values.
+
+17. The result will be [2, 4, 6]. The function is basically multiplying each value inside of array by 2. It calls the multiply by 2 function on each value and pushes it in to the new array.
+
+19. The output of the code above is as follows:
+    1. 1
+    2. 4
+    3. 3
+    4. 2
